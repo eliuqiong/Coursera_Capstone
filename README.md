@@ -1,6 +1,5 @@
-## IBM Coursera Capstone: Seattle Car Collision Severity factors
+# IBM Coursera Capstone: Seattle Car Collision Severity factors
 
-# Capstone Proposal - Allstate Claims Severity
 ![Python 3.6](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg)
 
 ## Describe project
