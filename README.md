@@ -6,7 +6,7 @@
 
 It is always rainy and windy in Seattle, and on the way, you always come across a terrible traffic jam on the other side of the highway, with long lines of cars barely moving. It would be great if there is something in place that could warn you, given the weather and the road conditions about the possibility of you getting into a car accident and how severe it would be, so that you would drive more carefully or even change your travel if you are able to.
 
-![Injury Collision Heatmap in Seattle](https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Seattle%20Injury%20Collision%20Heatmap.png){:height="50%" width="50%"}
+<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Seattle%20Injury%20Collision%20Heatmap.png" width="40%">
 
 
 ## Objective
