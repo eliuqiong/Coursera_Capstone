@@ -20,15 +20,19 @@ http://data-seattlecitygis.opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec6
 
 ## Algoritms
 ### Overall Result
+<p align="center">
 <img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Overall%20Result.png" width="60%" height="60%">
 
 ### - K nearest neighbors
+<p align="center">
 <img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/k-Nearest%20Neighbor.png" width="60%" height="60%">
 
 ### - The Decision Tree Analysis
+<p align="center">
 <img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Decision%20Tree%20Analysis.png" width="60%" height="60%">
 
 ### - Logistic regression
+<p align="center">
 <img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Logistic%20Regression.png" width="60%" height="60%">
 
 - Support Vector Machine (SVM) 
