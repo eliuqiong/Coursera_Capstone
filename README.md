@@ -11,10 +11,10 @@ It is always rainy and windy in Seattle, and on the way, you always come across
 Luckily enough, The Seattle Police Department (SPD) has recorded all car collision accident from 2004 to present. Basing on those historical data (194,673 records), we can create a map and information chart to help us understand the high-risk areas, understand car injury factors to avoid accident, and plan our next trip to Seattle better.
 
 ## Documentation
-- ipynb code file
+- ipynb code file (reports/)
 - [Report this project](reports/)
 
-## Datasource (85m csv file)
+## Datasource
 The datasource is: http://data-seattlecitygis.opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec63a0022ab_0.csv
 
 ## Algoritms
