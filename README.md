@@ -6,7 +6,7 @@
 
 It is always rainy and windy in Seattle, and on the way, you always come across a terrible traffic jam on the other side of the highway, with long lines of cars barely moving. It would be great if there is something in place that could warn you, given the weather and the road conditions about the possibility of you getting into a car accident and how severe it would be, so that you would drive more carefully or even change your travel if you are able to.
 
-<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Seattle%20Injury%20Collision%20Heatmap.png" width="40%">
+<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Seattle%20Injury%20Collision%20Heatmap.png" width="60%" height="60%">
 
 
 ## Objective
@@ -19,16 +19,16 @@ http://data-seattlecitygis.opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec6
 
 ## Algoritms
 ### Overall Result
-![Overall Result](https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Overall%20Result.png =400x250)
+<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Overall%20Result.png" width="60%" height="60%">
 
 ### - K nearest neighbors
-![KNN Result](https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/k-Nearest%20Neighbor.png =400x250)
+<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/k-Nearest%20Neighbor.png" width="60%" height="60%">
 
 ### - The Decision Tree Analysis
-![Decision Tree Result](https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Decision%20Tree%20Analysis.png =400x250)
+<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Decision%20Tree%20Analysis.png" width="60%" height="60%">
 
 ### - Logistic regression
-![Logistic regression](https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Logistic%20Regression.png =400x250)
+<img src="https://github.com/eliuqiong/IBM_Coursera_Capstone/blob/master/Results/Logistic%20Regression.png" width="60%" height="60%">
 
 - Support Vector Machine (SVM) 
 
